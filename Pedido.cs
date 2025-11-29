@@ -8,6 +8,8 @@ namespace proyectoprogramacion2
 {
     internal class Pedido
     {
+	// Haciendo cambios al archivo
+
         private int NumeroPedido { get; set; }
         private Cliente Cliente { get; set; }
         private string Fecha { get; set; }
